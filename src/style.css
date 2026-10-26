@@ -1,11 +1,11 @@
-* {
-    font-family: "Arial", sans-serif;
-    font-weight: 100;
-}
-
-#center-div {
+.center-div {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100v;
+    height: 100vh;
+}
+
+* {
+    font-family: "Arial", sans-serif;
+    font-weight: 100;
 }
